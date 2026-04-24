@@ -9,10 +9,10 @@ The goal of this project is to transform raw data into meaningful visual insight
 
 🎯 Objectives
 
-Analyze FIFA World Cup winners across different years
-Identify coaches who led teams to victory
-Explore team performance trends
-Build an interactive and user-friendly dashboard
+* Analyze FIFA World Cup winners across different years
+* Identify coaches who led teams to victory
+* Explore team performance trends
+* Build an interactive and user-friendly dashboard
 
 🛠️ Tools & Technologies
 
