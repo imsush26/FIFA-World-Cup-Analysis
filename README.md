@@ -16,31 +16,31 @@ The goal of this project is to transform raw data into meaningful visual insight
 
 🛠️ Tools & Technologies
 
-Power BI – Data visualization & dashboard creation
-Power Query – Data cleaning and transformation
-DAX (Data Analysis Expressions) – Calculations and measures
-Excel / Dataset – Data source
+* Power BI – Data visualization & dashboard creation
+* Power Query – Data cleaning and transformation
+* DAX (Data Analysis Expressions) – Calculations and measures
+* Excel / Dataset – Data source
 
 📂 Dataset Description
 
 The dataset used in this project contains:
 
-Year – World Cup year
-Winning Team – Team that won the World Cup
-Coach Name – Coach of the winning team
-Team Initial / Abbreviation – Short form of team name
+* Year – World Cup year
+* Winning Team – Team that won the World Cup
+* Coach Name – Coach of the winning team
+* Team Initial / Abbreviation – Short form of team name
 
 📊 Key Features of Dashboard
 
-📅 Year-wise World Cup winners
-🏆 Team performance analysis
-👨‍🏫 Coach-wise winning insights
-📈 Interactive filters and slicers
-📌 Clean and dynamic visualizations
+* 📅 Year-wise World Cup winners
+* 🏆 Team performance analysis
+* 👨‍🏫 Coach-wise winning insights
+* 📈 Interactive filters and slicers
+* 📌 Clean and dynamic visualizations
 
 🔍 Insights Generated
 
-Most successful teams in FIFA World Cup history
-Coaches who have won multiple titles
-Trends in winning teams over decades
-Comparative analysis of team performance
+* Most successful teams in FIFA World Cup history
+* Coaches who have won multiple titles
+* Trends in winning teams over decades
+* Comparative analysis of team performance
